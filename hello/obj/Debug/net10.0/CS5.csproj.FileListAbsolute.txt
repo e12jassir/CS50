@@ -1,0 +1,15 @@
+C:\GitHub\CS50\hello\bin\Debug\net10.0\CS5.exe
+C:\GitHub\CS50\hello\bin\Debug\net10.0\CS5.deps.json
+C:\GitHub\CS50\hello\bin\Debug\net10.0\CS5.runtimeconfig.json
+C:\GitHub\CS50\hello\bin\Debug\net10.0\CS5.dll
+C:\GitHub\CS50\hello\bin\Debug\net10.0\CS5.pdb
+C:\GitHub\CS50\hello\obj\Debug\net10.0\CS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CS50\hello\obj\Debug\net10.0\CS5.AssemblyInfoInputs.cache
+C:\GitHub\CS50\hello\obj\Debug\net10.0\CS5.AssemblyInfo.cs
+C:\GitHub\CS50\hello\obj\Debug\net10.0\CS5.csproj.CoreCompileInputs.cache
+C:\GitHub\CS50\hello\obj\Debug\net10.0\CS5.sourcelink.json
+C:\GitHub\CS50\hello\obj\Debug\net10.0\CS5.dll
+C:\GitHub\CS50\hello\obj\Debug\net10.0\refint\CS5.dll
+C:\GitHub\CS50\hello\obj\Debug\net10.0\CS5.pdb
+C:\GitHub\CS50\hello\obj\Debug\net10.0\CS5.genruntimeconfig.cache
+C:\GitHub\CS50\hello\obj\Debug\net10.0\ref\CS5.dll
